@@ -17,7 +17,7 @@ In this project, I:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python
 - SQLite
@@ -74,6 +74,11 @@ See the full analysis here:
 Example of filtering employee data using WHERE and LIKE:
 
 ![Filtering Results](filtering-query-results.png)
+### Filtering by Birth Year
+
+Example of filtering employees born in the 1970s using a WHERE condition:
+
+![Filtering Birth Year](filtering-birthyear-results.png)
 ---
 
 ## Author
