@@ -89,6 +89,11 @@ Example of grouping employees by department and counting the number of employees
 Example of calculating total employees and average salary per department using aggregate functions:
 
 ![Aggregation Results](aggregation-results.png)
+## Filtering Grouped Data (HAVING)
+
+Example of filtering grouped results to show only departments with fewer than 4 employees:
+
+![Having Results](having-results.png)
 ---
 
 ## Author
