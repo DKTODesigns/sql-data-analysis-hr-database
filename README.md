@@ -69,7 +69,11 @@ See the full analysis here:
 - Learned how to integrate SQL with Python
 - Improved understanding of GROUP BY vs HAVING
 - Gained experience working with structured datasets
+## Filtering Example
 
+Example of filtering employee data using WHERE and LIKE:
+
+![Filtering Results](filtering-query-results.png)
 ---
 
 ## Author
