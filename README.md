@@ -79,11 +79,16 @@ Example of filtering employee data using WHERE and LIKE:
 Example of filtering employees born in the 1970s using a WHERE condition:
 
 ![Filtering Birth Year](filtering-birthyear-results.png)
-## 📊 Grouping Example
+## Grouping Example
 
 Example of grouping employees by department and counting the number of employees in each department using GROUP BY:
 
 ![Grouping Results](grouping-results.png)
+## Aggregation Example
+
+Example of calculating total employees and average salary per department using aggregate functions:
+
+![Aggregation Results](aggregation-results.png)
 ---
 
 ## Author
